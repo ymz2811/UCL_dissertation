@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+transformers
+scikit-learn
+matplotlib
+anthropic
+scipy
+python-dotenv
+openai
